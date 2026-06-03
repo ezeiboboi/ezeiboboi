@@ -1,4 +1,4 @@
-## **King Eze (Nnabuife)'s IT and Cybersecurity Project Portfolio 🔐**
+## **Nnabuife Eze's IT and Cybersecurity Project Portfolio 🔐**
 
 🛡️ **SOC Analyst | Cybersecurity Analyst | Threat Detection & Incident Response | SC-200 | CompTIA Security+**
 
