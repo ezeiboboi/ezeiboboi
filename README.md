@@ -1,8 +1,8 @@
 ## **Nnabuife Eze's IT and Cybersecurity Project Portfolio 🔐**
 
-🛡️ **SOC Analyst | Cybersecurity Analyst | Threat Detection & Incident Response | SC-200 | CompTIA Security+**
+🛡️ **Cybersecurity Analyst | SOC & Cloud Security Analyst | Technical Support | Threat Detection & Incident Response | Defender XDR | SIEM | CompTIA Security+ | AZ-104 | SC-200**
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity and Cloud Security Analyst with experience supporting enterprise cloud and on-premises infrastructure, SOC operations, identity security, and technical troubleshooting across hybrid and multi-cloud environments. My background combines cybersecurity operations, cloud administration, infrastructure support, and enterprise technical support, with hands-on experience securing, monitoring, and troubleshooting environments across Azure, AWS, GCP, Windows, and Linux systems.
 
 ---
 
