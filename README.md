@@ -34,21 +34,24 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 **🧰 Tools, Technologies & Skills**
 
-- **Languages:** SQL, Python, KQL, PowerShell Scripting
-- **Operating Systems:** Windows, Android, iOS, Mac OS, Linux
-- **Security Tools:** Microsoft Defender suite (including Defender for Office 365, Cloud Apps, Purview, Endpoint, Identity), Microsoft Sentinel, Splunk
-- **Security & Compliance:** NIST, GDPR, CCPA, HIPAA, SOC 2, PCI-DSS.
-- **Cloud & Infrastructure:** Microsoft Azure, Cloud Service Models, Windows Server 2016–2022
-- Networking & Security: TCP/IP, UDP, SSH, VPN, DNS, DHCP, Firewalls, Domain Policies, Vulnerability Remediation, Multi-Factor Authentication, Access Control
-- **AI Fundamentals:** Prompt Engineering & Output Evaluation, Creating responsible generative AI solutions, Microsoft Security Copilot (Copilot in Defender XDR, Purview, Entra, Intune and Cloud)
-- **Skills:** Information security, Malware Analysis, Network Monitoring, Threat Detection, Incident Response, Time Management, Problem Solving, Teamwork and Creativity
+- **Security Operations:** Security Monitoring, Incident Response, Threat Hunting, Threat Detection, Threat Intelligence, Vulnerability Management, Malware Analysis, Root Cause Analysis, Log Analysis, Network Monitoring
+- **SIEM / EDR / XDR / SOAR:** Microsoft Sentinel, Microsoft Defender XDR, Defender for Endpoint, Defender for Office 365, Defender for Identity, Microsoft Purview, Splunk, Security Copilot
+- **Cloud & Infrastructure Security:** Azure, AWS, GCP, Defender for Cloud, Windows Server 2016–2022
+- **Identity & Access Management:** Microsoft Entra ID, Azure AD, MFA, Conditional Access, RBAC, Access Reviews, Privileged Access Controls
+- **Scripting & Automation:** KQL, Python, PowerShell, SQL, Security Automation, Detection Logic Development, Workflow Automation
+- **Frameworks & Compliance:** MITRE ATT&CK, NIST, CIS Benchmark, ISO 27001, OWASP, SOC 2, PCI-DSS, HIPAA, GDPR, CCPA
+- **Networking & Systems:** TCP/IP, UDP, DNS, DHCP, VPN, SSH, Firewalls, IDS/IPS, Network Traffic Analysis
+- **Operating Systems:** Windows, Linux, macOS, Android, iOS
+- **Soft Skills:** Analytical Thinking, Communication, Documentation, Cross-Functional Collaboration, Problem Solving, Teamwork
+- **AI Fundamentals:** Claude Certified Architect, Prompt Engineering & Output Evaluation, Microsoft Security Copilot (Copilot in Defender XDR, Purview, Entra, Intune, and Cloud)
 
 ---
 
 **🎓 Certifications & Training**
+- 🛡️ **CompTIA Security+**
 - 🧠 **Microsoft Certified: Security Operations Analyst Associate (SC-200)**  
-- 🛡️ **CompTIA Security+**  
-- ☁️ **Microsoft Azure Administrator Associate (AZ-104)** *(in progress)*  
+- ☁️ **Microsoft Azure Administrator Associate (AZ-104)**
+- ☁️ **Claude Certified Architect - Claude**  
 
 ---
 
