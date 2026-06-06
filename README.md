@@ -48,10 +48,12 @@ Cybersecurity and Cloud Security Analyst with experience supporting enterprise c
 ---
 
 **🎓 Certifications & Training**
+- ⚡ **BEng. Electrical and Information Engineering - Landmark University**
 - 🛡️ **CompTIA Security+**
 - 🧠 **Microsoft Certified: Security Operations Analyst Associate (SC-200)**  
 - ☁️ **Microsoft Azure Administrator Associate (AZ-104)**
-- ☁️ **Claude Certified Architect - Claude**  
+- 💻 **Microsoft Azure Security Engineer Associate (AZ-500) – In View**
+- 🤖 **Claude Certified Architect - Claude**  
 
 ---
 
